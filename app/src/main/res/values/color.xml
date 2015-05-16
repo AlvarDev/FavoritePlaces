@@ -4,4 +4,6 @@
     <color name="color_white">#fff</color>
     <color name="color_gray">#a8c5c5c5</color>
     <color name="color_bg_black">#63000000</color>
+    <color name="color_green">#ff0d8900</color>
+    <color name="color_violeta">#ff611741</color>
 </resources>
