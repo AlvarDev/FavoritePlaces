@@ -28,7 +28,10 @@ public class ListaLugaresActivity extends ActionBarActivity {
         }
 
 
-        ArrayAdapter adapter = new ArrayAdapter<String>(this,R.layout.layout_lugar, lugares);
+        ArrayAdapter adapter = new ArrayAdapter<String>
+                (this,R.layout.layout_lugar, lugares);
+
+
         listLugares.setAdapter(adapter);
 
     }
